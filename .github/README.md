@@ -1,8 +1,8 @@
-`tf.exe` A stunning, fully interactive terminal-based portfolio website that simulates a complete operating system experience. Built with React, TypeScript, and Vite, this template transforms your portfolio into an immersive desktop environment with a BIOS boot sequence, login screen, draggable icons, and a functional terminal.
+`tfexe` is a stunning, fully interactive terminal-based portfolio website that simulates a complete operating system experience. Built with React, TypeScript, and Vite, this template transforms your portfolio into an immersive desktop environment with a BIOS boot sequence, login screen, draggable icons, and a functional terminal.
 
 ![Preview](./preview.gif)
 
-**[https://iamovi.github.io/tf.exe/](https://iamovi.github.io/tf.exe/)**
+**[https://iamovi.github.io/tfexe/](https://iamovi.github.io/tfexe/)**
 
 ## Screenshots
 
