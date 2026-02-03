@@ -269,7 +269,7 @@ npm run build
 # Push the 'dist' folder to gh-pages branch
 ```
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to:
 - Report bugs
@@ -277,11 +277,13 @@ Contributions are welcome! Feel free to:
 - Submit pull requests
 - Improve documentation
 
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 
-**Made with ❤️ by developers, for developers**
+**Made with ❤️ by [Ovi ren](https://iamovi.github.io), for developers**
 
 Star ⭐ this repo if you found it helpful!
+
+Thanks for reading!
