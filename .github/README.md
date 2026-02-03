@@ -28,7 +28,7 @@
 ```bash
 # Clone the repository
 git clone https://github.com/iamovi/tfish.git
-cd tf.exe
+cd tfish
 
 # Install dependencies
 npm install
