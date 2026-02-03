@@ -12,7 +12,7 @@ export default defineConfig(({ mode }) => ({
     },
   },
   plugins: [react()],
-  base: "/tf.exe/",
+  base: "/tfexe/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
